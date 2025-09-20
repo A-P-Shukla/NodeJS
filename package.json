@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-P-Shukla/NodeJS.git"
+  },
+  "author": "Akhand Pratap Shukla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/A-P-Shukla/NodeJS/issues"
+  },
+  "homepage": "https://github.com/A-P-Shukla/NodeJS#readme"
+}
