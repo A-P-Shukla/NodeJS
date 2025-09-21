@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/A-P-Shukla/NodeJS/issues"
   },
-  "homepage": "https://github.com/A-P-Shukla/NodeJS#readme"
+  "homepage": "https://github.com/A-P-Shukla/NodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
